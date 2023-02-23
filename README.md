@@ -1,4 +1,3 @@
 # phoenix-docs
 
-See Wiki
-https://github.com/Hoax2/phoenix-docs/wiki
+- [Building DA_ files in UE4](JSON-to-DA.md)
