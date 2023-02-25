@@ -26,7 +26,7 @@ Latest versions allow you to export clean data.
 3. Replace it with the [MapStructTypes JSON](/code/fmodel-MapStructTypes.json)
 
 ## Setup
-Add [Tangerie's scripts](https://github.com/Tangerie/Json2DA) to a `/Content` folder using Git:
+Add [Tangerie's scripts](https://github.com/Tangerie/Json2DA) to a `/Content/Python` folder using Git:
 1. In command prompt navigate to the `/Content` folder of your UProject
 2. Run `git clone https://github.com/Tangerie/Json2DA.git Python` 
 
