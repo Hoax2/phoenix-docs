@@ -1,4 +1,4 @@
-# Building DA files in UE4
+# Building DA_GA files in UE4
 
 ## Overview
 > Outlines how to get data from the game's DA JSON files back into UE4 quickly using Tangerie's scripts.
