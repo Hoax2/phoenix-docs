@@ -43,10 +43,10 @@ Phoenix/Content/Data/GearAppearances/
 ### 2 - Individual Asset Import
 1. Create a blank Data-Asset in the correct location for your mod with the correct name
     * Right-click > Misc > "Data Asset"
-    * Select Parent Class to match "Type" in your JSON (`DA_GA_` this is "GearAppearanceItemDefinition") 
-2. Once done, right click your Data-Asset and select:
+    * Select Parent Class to match the "Type" in your JSON (For `DA_GA_` this is "GearAppearanceItemDefinition") 
+2. Once done, right-click your Data-Asset and select:
     * Scripted Actions > "Import Data Asset JSON"
-3. Copy and paste your JSON into this box, and hit "Ok"
+3. Copy and paste all the JSON code you extracted earlier into this little box, and hit "Ok"
 4. ! Your Data-Asset should now contain the correct structures
 
 
