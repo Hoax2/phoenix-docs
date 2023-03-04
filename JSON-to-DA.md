@@ -16,7 +16,7 @@ Appearance skins for clothing use `GearAppearanceItemDefinition` DataAsset (DA_G
 ### [Custom PhoenixUProj UE4 engine](https://github.com/narknon/PhoenixUProj) <br>
 Provides all the extra utilities and data types in the engine
 
-### [Fmodel Dev Build](https://github.com/4sval/FModel/tree/dev) <br>
+### [Fmodel Special build for HL](https://github.com/LongerWarrior/FModel/releases/tag/HW_1.0.0.0) <br>
 Latest versions allow you to export clean data.
 
 #### FModel Setup:
